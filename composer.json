@@ -1,0 +1,20 @@
+{
+    "name": "jinggo/s3",
+    "description": "",
+    "authors": [
+        {
+            "name": "Jinggo",
+            "email": "jinggo.villamor@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jinggo\\S3": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
